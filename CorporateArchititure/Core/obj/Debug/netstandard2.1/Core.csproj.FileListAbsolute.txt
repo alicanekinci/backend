@@ -1,0 +1,9 @@
+C:\Users\Pointo-2\source\repos\CorporateArchititure\Core\bin\Debug\netstandard2.1\Core.deps.json
+C:\Users\Pointo-2\source\repos\CorporateArchititure\Core\bin\Debug\netstandard2.1\Core.dll
+C:\Users\Pointo-2\source\repos\CorporateArchititure\Core\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\Pointo-2\source\repos\CorporateArchititure\Core\obj\Debug\netstandard2.1\Core.csprojAssemblyReference.cache
+C:\Users\Pointo-2\source\repos\CorporateArchititure\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+C:\Users\Pointo-2\source\repos\CorporateArchititure\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+C:\Users\Pointo-2\source\repos\CorporateArchititure\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Pointo-2\source\repos\CorporateArchititure\Core\obj\Debug\netstandard2.1\Core.dll
+C:\Users\Pointo-2\source\repos\CorporateArchititure\Core\obj\Debug\netstandard2.1\Core.pdb
